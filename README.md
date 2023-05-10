@@ -2,7 +2,8 @@
 
 
 
-##License
+## License
+
 <sub>MIT License Copyright (c) 2023 pedrovarona
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
